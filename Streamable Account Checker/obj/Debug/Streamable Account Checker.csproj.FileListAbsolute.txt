@@ -1,0 +1,15 @@
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Streamable Account Checker.exe.config
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Streamable Account Checker.exe
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Streamable Account Checker.pdb
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.csproj.AssemblyReference.cache
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable_Account_Checker.Form1.resources
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable_Account_Checker.Properties.Resources.resources
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.exe
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.pdb
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Leaf.xNet.xml
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henry\source\repos\Streamable Account Checker\Streamable Account Checker\obj\Debug\Streamable Account Checker.csproj.CopyComplete
